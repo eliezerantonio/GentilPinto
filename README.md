@@ -20,7 +20,7 @@ Lover of Technology, coding and animes :heart:
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=GentilPinto&show_icons=true" alt="amruthpillai" />
-<p><img src="https://komarev.com/ghpvc/?username=amruthpillai" alt="amruthpillai" /> </p>
+<p><img src="https://komarev.com/ghpvc/?username=GentilPinto" alt="GentilPinto" /> </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentilPinto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
