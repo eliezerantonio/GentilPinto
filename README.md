@@ -1,6 +1,3 @@
-<img align="right" width="400" height="400" src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif">
-
-
 # Hi! Welcome to my profile!
 ## I'm Gentil Pinto!
 
