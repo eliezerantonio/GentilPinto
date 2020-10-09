@@ -16,10 +16,14 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-circle&logo=Gmail&logoColor=white&link=mailto:gentil.pinto.dev@gmail.com)](mailto:gentil.pinto.dev@gmail.com)
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=GentilPinto&show_icons=true" alt="amruthpillai" />
-<p><img src="https://komarev.com/ghpvc/?username=GentilPinto" alt="GentilPinto" /> </p>
+<!-- status codes -->
+<a align="center" href="https://arshiamidos.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=GentilPinto&show_icons=true&theme=graywhite" alt="my_github_stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GentilPinto&layout=compact&theme=graywhite" alt="languages" height="165">
+    </p>
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GentilPinto&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p><img src="https://komarev.com/ghpvc/?username=GentilPinto" alt="GentilPinto" /> </p>
 
 - Thanks for visiting. :heart:
 - Follow me !! :smile:
