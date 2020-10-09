@@ -1,9 +1,9 @@
-# Hi! Welcome to my profile!
-## I'm Gentil Pinto!
+<h1 align="center">Hi! Welcome to my profile!</h1>
 
-Web Full-Stack Developer focused in PHP(Laravel) | Software engineer :robot:
-
-Lover of Technology, coding and animes :heart:
+<p> I'm Gentil Pinto a Web FullStack Developer :robot:
+  <br/>
+  Lover of Technology, coding and animes :heart:
+</p>
 
 
 
