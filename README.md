@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GentilPinto" alt="GentilPinto" />
-  ![GitHub followers](https://img.shields.io/github/followers/GentilPinto?label=Github%20Followers)
+  <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/github/followers/GentilPinto?label=Github%20Followers">
 </p>
 
 <!-- status codes -->
