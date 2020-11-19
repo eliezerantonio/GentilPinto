@@ -1,15 +1,57 @@
-<h1 align="center">Hi! Welcome to my profile!</h1>
-
-<p> I'm Gentil Pinto a Web FullStack Developer :robot:
-  <br/>
-  Lover of Technology, coding and animes :heart:
-</p>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GentilPinto" alt="GentilPinto" />
-  <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/github/followers/GentilPinto?label=Github%20Followers">
+    <img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="30%">
 </p>
 
+```ruby
+class Me
+    USERNAME = 'GentilPinto'
+    NAME = 'Gentil Pinto'
+    WEB = 'https://gentilpinto.github.io/my-page/'
+    TWITTER = '@gentil__pinto'
+    LINKEDIN = '/in/gentilpinto'
+    CODE = {
+        frontend: ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Angular'],
+        backend: ['Ruby on Rails', 'PHP', 'Laravel', 'NodeJS'],
+        database: ['PostgreSQL', 'MySQL', 'SQLite3'],
+        tools: ['git', 'GitHub', 'VSCode'],
+        so: ['Linux']
+    }
+    ARCHITECTURE = ['SPA', 'MVC', 'REST']
+    
+    def self.whoami
+        puts USERNAME
+    end
+    
+    def self.getDailyKnowledge
+        puts [
+            :Ruby,
+            :RubyOnRails,
+            :Javascript,
+            :TypeScript,
+            :CSS,
+            :Angular,
+            :TDD
+        ]
+    end
+
+    def getFutureGoal
+        puts 'To contribute to open source.'
+    end
+end
+
+Me.whoami
+
+# GentilPinto
+
+
+```
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/gentilpinto/count.svg" />
+</p>
+
+<h2 align="center">Some stats 💻</h2>
 <!-- status codes -->
 <a align="center" href="https://arshiamidos.github.io">
     <p align="center">
@@ -18,11 +60,15 @@
 </a>
 
 <!-- thropy -->
-<a href="https://arshiamidos.github.io" align="center">
+<p align="center">
+<a href="https://arshiamidos.github.io">
     <p align="center">
         <img src="https://github-profile-trophy.vercel.app/?username=GentilPinto&column=7&theme=dracula" />
     </p>
 </a>
+</p>
+
+---
 
 <h4 align="center">Languages & Tools :computer: </h4>
 <p align="center">
@@ -47,7 +93,7 @@
     <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-facebook-blue?style=flat-circle&logo=Facebook&logoColor=white&link=https://www.facebook.com/gentil.pinto2">
   </a>
   
-  <a href="https://twitter.com/GentilDev">
+  <a href="https://twitter.com/gentil__pinto">
     <img alt="Gentil Pinto GitHub followers" src="https://img.shields.io/badge/-twitter-blue?style=flat-circle&logo=Twitter&logoColor=white&link=https://twitter.com/GentilDev">
   </a>
   
