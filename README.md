@@ -34,7 +34,7 @@ class Me
         ]
     end
 
-    def getFutureGoal
+    def self.getFutureGoal
         puts 'To contribute to open source.'
     end
 end
