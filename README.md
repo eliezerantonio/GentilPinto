@@ -12,11 +12,11 @@ class Me
     CODE = {
         frontend: ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'Angular'],
         backend: ['Ruby on Rails', 'PHP', 'Laravel', 'NodeJS'],
+        architecture: ['SPA', 'MVC', 'REST']
         database: ['PostgreSQL', 'MySQL', 'SQLite3'],
-        tools: ['git', 'GitHub', 'VSCode'],
+        tools: ['VSCode', 'git', 'GitHub', 'heroku', 'postman'],
         so: ['Linux']
     }
-    ARCHITECTURE = ['SPA', 'MVC', 'REST']
     
     def self.whoami
         puts USERNAME
